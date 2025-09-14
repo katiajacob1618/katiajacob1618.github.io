@@ -1,14 +1,12 @@
 # Personal Portfolio Website 
 
 https://katiajacob1618.github.io/
----
+
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
-
----
 
 ## Overview
 
@@ -21,8 +19,6 @@ It includes sections such as:
 
 The website is **responsive** and optimized for desktop and mobile devices.
 
----
-
 ## Features
 
 - Clean, modern, and professional design
@@ -31,5 +27,3 @@ The website is **responsive** and optimized for desktop and mobile devices.
 - Project showcase with card layout
 - Smooth navigation bar with custom styling
 - Clear licensing under Creative Commons
-
----
