@@ -271,5 +271,16 @@
       return new bootstrap.Tooltip(tooltipTriggerEl);
     });
   </script>
+
+  <script>
+  // Select all links inside the Projects section
+  const projectLinks = document.querySelectorAll('#projects a');
+
+  projectLinks.forEach(link => {
+    link.setAttribute('target', '_blank');        // Open in new tab
+    link.setAttribute('rel', 'noopener noreferrer'); // Security best practice
+  });
+ </script>
+
 </body>
 </html>
